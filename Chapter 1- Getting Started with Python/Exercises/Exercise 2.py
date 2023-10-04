@@ -1,2 +1,3 @@
-import platform
-print("",platform.python_version())
+import sys
+python_version=sys.version
+print("python:",python_version)
