@@ -1,1 +1,3 @@
-print('Albert Einstein once said, "A person who never made a mistake never tried anything new."')
+Quote = "One child, one teacher, one book, one pen can change the world."
+Author = "Malala Yousafzai"
+print(f'{Author} once said, "{Quote}"')
