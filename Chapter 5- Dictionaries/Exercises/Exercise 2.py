@@ -13,5 +13,17 @@ glossary = {
     'loop': 'Work through a collection of items, one at a time.',
     }
 
-for word in glossary :
-    print(word.title() + ": " + glossary[word],"\n") 
+word = 'string'
+print("\n" + word.title() + ": " + glossary[word])
+
+word = 'comment'
+print("\n" + word.title() + ": " + glossary[word])
+
+word = 'list'
+print("\n" + word.title() + ": " + glossary[word])
+
+word = 'loop'
+print("\n" + word.title() + ": " + glossary[word])
+
+word = 'dictionary'
+print("\n" + word.title() + ": " + glossary[word])
