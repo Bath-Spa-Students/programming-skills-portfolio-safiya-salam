@@ -15,5 +15,5 @@ glossary = {
     'boolean expression': 'An expression that evaluates to True or False.',
     }
 
-for word, definition in glossary.items():
-    print("\n" + word.title() + ": " + definition)
+for word in glossary :
+    print(word.title() + ": " + glossary[word],"\n") 
