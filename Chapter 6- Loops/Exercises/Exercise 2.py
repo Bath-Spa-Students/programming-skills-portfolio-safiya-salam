@@ -4,15 +4,25 @@
 
 #and then tell them the cost of their movie ticket.
 
-x = "How old are you?"
+# Prompt for asking the user's age
+x = "How old are you? "
+
+# Additional instruction for the user
 y = "\nEnter 'quit' when you are finished. "
 
+# Loop for continuous interaction with the user
 while True:
+    # Asking for the user's age
     age = input(x)
+
+    # Checking if the user wants to quit the program
     if age == 'quit':
         break
+
+    # Converting the input age to an integer
     age = int(age)
 
+    # Evaluating the ticket price based on the user's age
     if age < 3:
         print("  You can get in for free!")
     elif age < 13:
