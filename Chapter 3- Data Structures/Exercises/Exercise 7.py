@@ -2,7 +2,7 @@
 #•	 Store the locations in a list. Make sure the list is not in alphabetical order.
 #•	 Print your list in its original order. Don’t worry about printing the list neatly,just print it as a raw Python list.
 #•	 Use sorted() to print your list in alphabetical order without modifying the actual list.
-#•	 Show that your list is still in its original order by printing it.
+#•	 Show that your list is still in its original order by printing it. 
 #•	 Use sorted() to print your list in reverse alphabetical order without changing the order of the original list.
 #•	 Show that your list is still in its original order by printing it again.
 #•	 Use reverse() to change the order of your list. Print the list to show that its order has changed.
