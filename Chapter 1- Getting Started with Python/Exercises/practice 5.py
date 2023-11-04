@@ -1,4 +1,4 @@
-#write four strings in different variables and print the output as one string (String Concatenation)in visual code.
+#write four strings in different variables and print the output as one string (String Concatenation)in visual code. 
 
 str_1 = "123"
 str_2 =" "
