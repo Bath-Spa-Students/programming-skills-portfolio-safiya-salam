@@ -1,4 +1,4 @@
-# if-else statment  
+# if-else statment    
 print("# if-else statment :")
 price = float (input ("Enter price :"))
 discount = 0
